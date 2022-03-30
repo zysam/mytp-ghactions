@@ -15,7 +15,7 @@
   ],
   "author": "zysam",
   "license": "MIT",
-  "homepage": "https://github.com/zysam/mytp-ghactions",
+  "homepage": "https://zysam.github.io/mytp-ghactions",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
